@@ -4,7 +4,8 @@ a=100
 print("The type of variable having value", a, " is ", type(a))
 
 # float variable.
-c=20.345
+c=20.345 
+#test
 print("The type of variable having value", c, " is ", type(c))
 
 # complex variable.
